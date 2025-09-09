@@ -1,3 +1,6 @@
+#主规则添加一下规则组
+#RULE-SET,https://raw.githubusercontent.com/alexxu2026/Shadowrocket_Custom_Rules/main/My_Direct.list,🎯 全球直连,update-interval = 86400
+
 DOMAIN-KEYWORD,ninebot
 DOMAIN-KEYWORD,smartmidea
 DOMAIN-KEYWORD,dsmxp
